@@ -3,7 +3,7 @@
 Thanks for your interest! A note on how this project takes contributions.
 
 ## Bug reports, ideas, and questions — always welcome
-Open an **issue** or a **GitHub Discussion**. Clear reproductions, logs, and
+Open an **issue** or a **GitHub Discussion**, or chat with us on **[Discord](https://discord.gg/ZrWcStMtE4)**. Clear reproductions, logs, and
 version info help a lot. For a suspected **security or privacy issue**, please use
 GitHub's private "Report a vulnerability" (the Security tab) or contact the
 maintainer directly — not a public issue.
